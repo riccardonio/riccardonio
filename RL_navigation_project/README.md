@@ -19,11 +19,19 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 ### Getting started
 
-The required packages are listed in the file requirements.txt
+The required packages are listed in the file _requirements.txt_
+
 In particular these packages are required to run the script:
 * pytorch
 * unityagents
 * numpy
-The app Banana.app should also be in current working folder.
+
+The app _Banana.app_ should also be in current working folder.
+
+### Instructions
+
+To run the code in the repository open the jupyter notebook _Navigation.ipynb_
+
+
 
 
